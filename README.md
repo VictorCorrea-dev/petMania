@@ -6,9 +6,9 @@ Este repositório contém a resolução do **Desafio Pet Mania API**, um projeto
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 17**
+- **Java 25**
 - **Spring Boot** (Spring Data JPA, Spring Web)
-- **Banco de Dados:** H2 Database / MySQL
+- **Banco de Dados:** MySQL
 - **Testes e Validação:** Postman & Front-end HTML/JS
 
 ---
